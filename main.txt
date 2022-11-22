@@ -4,3 +4,4 @@ line3
 line4 thdwdwis line is changed to see conflict comes from remotebranch1
 line5 thdwdwdwis line is changed to see conflict comes from from-remote
 confconf
+ 
