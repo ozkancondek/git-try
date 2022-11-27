@@ -1,0 +1,22 @@
+*****/Course 1 *****
+ls -la => show hidden files 
+git commit -m "commit message" -m "description message"
+gti push origin(location of repo) main(defines the branch)
+*****/create repo locally and push/*****
+=>add some files 
+=>git init 
+=>git status(see your untracked files)
+=> git add . && git commit -m "message message"
+=>Creta a an empty repo on github
+=>git remote add origin <remote repo url>
+=>git push -u origin master (i will just use git push in the future thats why i am writing -p in first)
+*********
+=>git checkout -b <branch-name>(create and checkout to branch)
+=> git diff  <branch name to comparison> (shows difference between my branch and named branch)
+=>git branch -d <branch name> delete local branch
+=>git commit -am "commit message" (works only if the files committed before. If its new created, it has to be staged first witg git add)
+=>if u have conflict, first resolve them and commit again
+=>git reset(undo staged files || undo git add . command)
+=>git reset HEAD~1 (undo and delete commit)
+
+*****/course 2/*****
